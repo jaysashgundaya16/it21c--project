@@ -1,5 +1,3 @@
-package Act1_OOP;
-
 public class Main {
     
     public static void main(String[] args){

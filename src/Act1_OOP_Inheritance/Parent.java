@@ -1,4 +1,4 @@
-package Act1_OOP;
+package Act1_OOP_Inheritance;
 
 public class Parent {
     String name;
