@@ -1,7 +1,7 @@
 package polymorphism;
 
-public class Polymorphism_Zyrel extends Polymorphism_Student{   //child class
-    Polymorphism_Zyrel(String name){
+public class Polymorphism_JC extends Polymorphism_Student{   //child class
+    Polymorphism_JC(String name){
         super(name);
     }
     @Override
