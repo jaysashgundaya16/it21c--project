@@ -7,6 +7,6 @@ abstract class Pets {
         System.out.print("[Kobe ");
     }
     public void Cat(){
-        System.out.print("{Mingbrown ");
+        System.out.print("{BrownMing ");
     }
 }
