@@ -1,7 +1,7 @@
 package polymorphism;
 
-public class Polymorphism_Ariel extends Polymorphism_Student{ //child class
-    Polymorphism_Ariel(String name){
+public class Polymorphism_Jaysash extends Polymorphism_Student{ //child class
+    Polymorphism_Jaysash(String name){
         super(name);
     }
     @Override
