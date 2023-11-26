@@ -1,9 +1,9 @@
 package laboratoryexercisefinalsno2;
 
-public class Rose extends Flowers{
+public class Dog extends Pets{
     
     @Override
     public void Color(){
-        System.out.println("red as blood.);
+        System.out.println("is a Brown dog.]");
     }
 }
